@@ -10,7 +10,7 @@ img_url = 'https://j.gifs.com/OgR7EL.gif'
 
 im = imread(img_url)
 
-st.image(im, caption='image from wikimedia commons',
+st.image(im, caption='neko-chann',
          use_column_width=True)
 
 
